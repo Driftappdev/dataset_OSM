@@ -1,0 +1,5 @@
+routing/output/cache/
+routing/output/extracts/
+routing/output/osrm/
+routing/regions/bangkok-metro.geojson
+routing/regions/bangkok-perimeter.geojson
